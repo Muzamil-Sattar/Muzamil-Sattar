@@ -6,7 +6,7 @@
 
 - 👀 I’m interested in Programming 😎
 - 🌱 I’m currently learning  React_Js
--  ➕ Add me friend on Facebook  [Add Me](https://www.facebook.com/muzamil.sattar.144)`{:target="_blank"}`
+-  ➕ Add me friend on Facebook  [Add Me](https://www.facebook.com/muzamil.sattar.144`{:target="_blank"}`)
 - 📫 How to reach me 👇👇 ... paste this code in console using F12 for magic 😎
 ```javascript
 console.log(String.fromCharCode(
