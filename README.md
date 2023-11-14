@@ -1,5 +1,7 @@
 - [Hi there 👋](#)
-
+- NOOB Web Developer 😎
+- Passionate about JavaScript 😉
+  
 - ```javascript
   console.log(String.fromCharCode(
   109, 117, 122, 97, 109, 105, 108 ));
