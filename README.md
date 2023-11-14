@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Muzamil-Sattar
-- ```javascript console.log(String.fromCharCode(
-  109, 117, 122, 97, 109, 105, 108
-
+- ```javascript
+  console.log(String.fromCharCode(
+  109, 117, 122, 97, 109, 105, 108 ));
 
 - 👀 I’m interested in Cricket 
 - 🌱 I’m currently learning  React_Js
