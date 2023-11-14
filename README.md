@@ -6,7 +6,7 @@
 - 👀 I’m interested in Cricket 
 - 🌱 I’m currently learning  React_Js
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me 👇👇 ... paste this code in console using F12 for magic 😎
 ```javascript
 console.log(String.fromCharCode(
   109, 117, 104, 97, 109, 109, 97, 100, 109, 117, 122, 97, 109, 105, 108,
