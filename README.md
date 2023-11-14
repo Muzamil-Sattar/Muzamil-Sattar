@@ -1,4 +1,4 @@
-- [Hi, There👋 >](#)
+- [Hi, There👋](#)
 
 - ```javascript
   console.log(String.fromCharCode(
